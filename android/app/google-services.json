@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070181820963",
+    "project_id": "amritaxchange",
+    "storage_bucket": "amritaxchange.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070181820963:android:6d088bc1e53fc348801f96",
+        "android_client_info": {
+          "package_name": "com.fuzzew.amex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUr-GmhAdG1uKk9ZkOdPGyT_rfdMMFnts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
